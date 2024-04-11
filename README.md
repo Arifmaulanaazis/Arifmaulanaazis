@@ -1,12 +1,12 @@
-# Selamat datang di Profil Saya! 👋
+# Welcome to My Profile! 👋
 
-Salam! Saya Arif Maulana Azis, seorang pengembang perangkat lunak dengan fokus utama pada pengembangan aplikasi desktop dan kecerdasan buatan (AI). Saya percaya bahwa teknologi dapat mengubah dunia, dan saya bersemangat untuk berkontribusi dalam menciptakan solusi inovatif yang memecahkan masalah dunia nyata.
+Hellow World! I'm Arif Maulana Azis, a software developer primarily focused on desktop application development and artificial intelligence (AI). I believe technology has the power to change the world, and I'm passionate about contributing to creating innovative solutions that tackle real-world problems.
 
-## Tentang Saya
+## About Me
 
-🚀 Saya adalah seorang ahli dalam pengembangan menggunakan Python, serta memiliki pengalaman dalam pengembangan situs web dengan React JS, Next JS, dan Tailwind CSS.
+🚀 I'm an expert in development using Python, with experience in web development using React JS, Next JS, and Tailwind CSS.
 
-### Keterampilan
+### Skills
 
 - Python
   ![Python](https://progress-bar.dev/100/?title=Expert)
@@ -20,24 +20,22 @@ Salam! Saya Arif Maulana Azis, seorang pengembang perangkat lunak dengan fokus u
 - Tailwind CSS
   ![Tailwind CSS](https://progress-bar.dev/80/?title=Advanced)
 
-## Kontak
+## Contact
 
-Jika Anda tertarik untuk berkolaborasi atau sekadar berbicara tentang teknologi, jangan ragu untuk menghubungi saya:
+If you're interested in collaboration or just want to chat about technology, feel free to reach out:
 
 - Email: [titandigitalsoft@gmail.com](mailto:titandigitalsoft@gmail.com)
 
-## Ide Kolaborasi
+## Collaboration Ideas
 
-Saya selalu terbuka untuk ide kolaborasi baru! Berikut adalah beberapa bidang di mana saya sangat tertarik untuk berkontribusi:
+I'm always open to new collaboration ideas! Here are some areas where I'm particularly interested in contributing:
 
-1. **Pengembangan AI untuk Kesehatan** - Menggunakan kecerdasan buatan untuk memprediksi penyakit atau menganalisis data medis.
+1. **AI Development for Healthcare** - Utilizing artificial intelligence to predict diseases or analyze medical data.
 
-2. **Peningkatan Pengalaman Pengguna pada Aplikasi Desktop** - Meningkatkan antarmuka pengguna dan kinerja aplikasi desktop yang saya kembangkan.
+2. **Enhancing User Experience in Desktop Applications** - Improving the user interface and performance of desktop applications I develop.
 
-3. **Pendidikan Teknologi** - Membantu mengajar koding atau teknologi kepada komunitas lokal atau online.
+3. **Technology Education** - Assisting in teaching coding or technology to the local or online community.
 
-Jangan ragu untuk mengirimkan pesan jika Anda memiliki ide atau proyek yang ingin kita bahas bersama!
+Feel free to drop a message if you have any ideas or projects you'd like to discuss together!
 
 ---
-
-Anda dapat menyesuaikan teks dan tautan dengan preferensi Anda. Jika Anda memerlukan bantuan lebih lanjut, silakan beri tahu saya!
