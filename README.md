@@ -1,7 +1,5 @@
 # Selamat datang di Profil Saya! 👋
 
-![Banner](https://avatars.githubusercontent.com/u/166703095?v=4)
-
 Salam! Saya Arif Maulana Azis, seorang pengembang perangkat lunak dengan fokus utama pada pengembangan aplikasi desktop dan kecerdasan buatan (AI). Saya percaya bahwa teknologi dapat mengubah dunia, dan saya bersemangat untuk berkontribusi dalam menciptakan solusi inovatif yang memecahkan masalah dunia nyata.
 
 ## Tentang Saya
