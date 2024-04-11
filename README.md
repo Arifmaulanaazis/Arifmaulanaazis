@@ -1,6 +1,6 @@
 # Welcome to My Profile! 👋
 
-Hellow World! I'm Arif Maulana Azis, a software developer primarily focused on desktop application development and artificial intelligence (AI). I believe technology has the power to change the world, and I'm passionate about contributing to creating innovative solutions that tackle real-world problems.
+Greetings! I'm Arif Maulana Azis, a software developer primarily focused on desktop application development and artificial intelligence (AI). I believe technology has the power to change the world, and I'm passionate about contributing to creating innovative solutions that tackle real-world problems.
 
 ## About Me
 
@@ -19,6 +19,22 @@ Hellow World! I'm Arif Maulana Azis, a software developer primarily focused on d
 
 - Tailwind CSS
   ![Tailwind CSS](https://progress-bar.dev/80/?title=Advanced)
+
+## Tools
+
+Here are some of the tools I frequently use:
+
+- Jupyter Notebook
+  ![Jupyter Notebook](https://img.icons8.com/ios-filled/50/000000/jupyter.png)
+
+- Visual Studio Code
+  ![Visual Studio Code](https://img.icons8.com/ios-filled/50/000000/visual-studio-code.png)
+
+- GROMACS
+  ![GROMACS](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/GROMACS_Logo.svg/1280px-GROMACS_Logo.svg.png)
+
+- NAMD
+  ![NAMD](https://www.ks.uiuc.edu/Research/namd/2.13/ug/images/logo.png)
 
 ## Contact
 
