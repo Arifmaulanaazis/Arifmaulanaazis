@@ -25,16 +25,16 @@ Greetings! I'm Arif Maulana Azis, a software developer primarily focused on desk
 Here are some of the tools I frequently use:
 
 - Jupyter Notebook
-  ![Jupyter Notebook](https://img.icons8.com/ios-filled/50/000000/jupyter.png)
+  ![Jupyter Notebook]([https://img.icons8.com/ios-filled/50/000000/jupyter.png](https://avatars.githubusercontent.com/u/7388996?s=200&v=4))
 
 - Visual Studio Code
-  ![Visual Studio Code](https://img.icons8.com/ios-filled/50/000000/visual-studio-code.png)
+  ![Visual Studio Code]([https://img.icons8.com/ios-filled/50/000000/visual-studio-code.png](https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png))
 
 - GROMACS
-  ![GROMACS](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/GROMACS_Logo.svg/1280px-GROMACS_Logo.svg.png)
+  ![GROMACS]([https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/GROMACS_Logo.svg/1280px-GROMACS_Logo.svg.png](https://www.gromacs.org/_static/gmx_logo_blue.png))
 
 - NAMD
-  ![NAMD](https://www.ks.uiuc.edu/Research/namd/2.13/ug/images/logo.png)
+  ![NAMD]([https://www.ks.uiuc.edu/Research/namd/2.13/ug/images/logo.png](https://www.ks.uiuc.edu/Research/namd/logo/namd_logo_left.gif))
 
 ## Contact
 
