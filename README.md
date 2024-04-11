@@ -1,7 +1,3 @@
-Tentu, berikut adalah README yang diperbarui tanpa bagian proyek dan LinkedIn, serta dengan penambahan progress bar untuk menampilkan keterampilan Anda:
-
----
-
 # Selamat datang di Profil Saya! 👋
 
 ![Banner](link_ke_gambar_anda)
