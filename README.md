@@ -20,6 +20,15 @@ Greetings! I'm Arif Maulana Azis, a software developer primarily focused on desk
 - Tailwind CSS
   ![Tailwind CSS](https://progress-bar.dev/80/?title=Advanced)
 
+- PHP
+  ![PHP](https://progress-bar.dev/80/?title=Advanced)
+
+- Molecular Docking
+  ![Molecular Docking](https://progress-bar.dev/90/?title=Advanced)
+
+- Molecular Dynamic
+  ![Molecular Dynamic](https://progress-bar.dev/90/?title=Advanced)
+
 ## Tools
 
 Here are some of the tools I frequently use:
