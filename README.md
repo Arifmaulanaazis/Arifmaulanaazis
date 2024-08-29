@@ -9,25 +9,18 @@ Greetings! I'm Arif Maulana Azis, a software developer primarily focused on desk
 ### Skills
 
 - Python
-  ![Python](https://progress-bar.dev/100/?title=Expert)
 
 - React JS
-  ![React JS](https://progress-bar.dev/80/?title=Advanced)
 
 - Next JS
-  ![Next JS](https://progress-bar.dev/80/?title=Advanced)
 
 - Tailwind CSS
-  ![Tailwind CSS](https://progress-bar.dev/80/?title=Advanced)
 
 - PHP
-  ![PHP](https://progress-bar.dev/80/?title=Advanced)
 
 - Molecular Docking
-  ![Molecular Docking](https://progress-bar.dev/90/?title=Advanced)
 
 - Molecular Dynamic
-  ![Molecular Dynamic](https://progress-bar.dev/90/?title=Advanced)
 
 ## Tools
 
